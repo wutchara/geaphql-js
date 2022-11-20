@@ -6,7 +6,7 @@ REF: https://www.tutorialspoint.com/graphql/index.htm
 
 Example
 
-```json
+```
 {
    test
    greeting

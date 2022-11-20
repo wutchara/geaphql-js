@@ -1,0 +1,14 @@
+[
+    {
+        "id": "col-101",
+        "name": "C-1",
+        "location": "C-1-L",
+        "rating": 5.0
+    },
+    {
+        "id": "col-102",
+        "name": "C-2",
+        "location": "C-2-L",
+        "rating": 4.5
+    }
+]

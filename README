@@ -27,12 +27,12 @@ Example
 
 ### GraphQL Server with Connected Database
 
-![A-1](./images/architecture_1.jpg)
+![A-1](https://github.com/wutchara/geaphql-js/tree/main/images/architecture_1.jpg)
 
 ### GraphQL Server Integrating Existing Systems
 
-![A-2](./images/architecture_2.jpg)
+![A-2](https://github.com/wutchara/geaphql-js/tree/main/images/architecture_2.jpg)
 
 ### Hybrid Approach
 
-![A-3](./images/architecture_3.jpg)
+![A-3](https://github.com/wutchara/geaphql-js/tree/main/images/architecture_3.jpg)
